@@ -35,4 +35,4 @@ if(require(pacman)){
 }
 
 # 自动安装并加载常用R包
-p_load("car","openxlsx","readxl","foreign","data.table","dplyr","tidyr","reshape","reshape2","mice","ggplot2")
+p_load("RMySQL","car","openxlsx","readxl","foreign","data.table","dplyr","tidyr","reshape","reshape2","mice","ggplot2")
